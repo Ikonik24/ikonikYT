@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
 
 body {
-background-image: url("https://i1.sndcdn.com/avatars-l36vTIlTHugW6ltn-Al93fQ-t240x240.jpg";
-font-family: 'Montserrat', sans-serif;
+    background-color: #1b1b1b;
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav {
